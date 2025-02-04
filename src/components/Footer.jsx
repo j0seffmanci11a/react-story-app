@@ -2,7 +2,7 @@
 import React from 'react';
 
 const Footer = () => {
-    return <p>The Moral of the story: Slow and steady wins the race</p>
+    return <h3>The Moral of the story: Slow and steady wins the race</h3>
 };
 
 export default Footer;
